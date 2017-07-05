@@ -1,0 +1,18 @@
+{
+  "name": "electrontest",
+  "version": "1.0.0",
+  "description": "System Information",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "system",
+    "monitor"
+  ],
+  "author": "Chukwuebuka Ngene",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^1.6.11"
+  }
+}
