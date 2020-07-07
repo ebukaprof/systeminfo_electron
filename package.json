@@ -13,6 +13,6 @@
   "author": "Chukwuebuka Ngene",
   "license": "ISC",
   "dependencies": {
-    "electron": "^1.6.11"
+    "electron": "^7.2.4"
   }
 }
